@@ -115,15 +115,11 @@ current_status: Entering 2nd year
 
 <br>
 
-<b>🐍 Contribution Snake</b>
-<br><br>
-<img src="https://raw.githubusercontent.com/laxmimusande4004-blip/laxmimusande4004-blip/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F08,100:1A2B1A&height=45&section=header&text=👻%20PAC-MAN%20CONTRIBUTION%20GRAPH&fontSize=18&fontColor=CAFF3C&fontAlignY=60" width="100%" />
 
 <br><br>
 
-<b>👻 Pac-Man Contribution Graph</b>
-<br><br>
-<img src="https://raw.githubusercontent.com/laxmimusande4004-blip/laxmimusande4004-blip/output/pacman-contribution-graph.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/laxmimusande4004-blip/laxmimusande4004-blip/output/pacman-contribution-graph.svg" width="100%" style="filter: hue-rotate(60deg) saturate(1.3);" />
 
 <br>
 
@@ -181,3 +177,4 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:112D1B,100:0A0F08&height=120&section=footer&fontColor=CAFF3C" />
 
 </div>
+
