@@ -48,15 +48,7 @@ OPEN_TO   =  Internships  |  Entry-level SDE roles
 
 <div align="center">
 
-<b>Languages, Web & Backend</b>
-<br>
-<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,mongodb,mysql&theme=dark" />
-
-<br><br>
-
-<b>Currently Learning</b>
-<br>
-<img src="https://skillicons.dev/icons?i=react,express,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,mongodb,mysql,react,express,git,github&theme=dark" />
 
 </div>
 
@@ -108,15 +100,25 @@ current_status: Entering 2nd year
 
 <br><br>
 
+<table>
+<tr>
+<td width="33%" align="center">
 <b>🧩 LeetCode Stats</b>
-<br>
-<img src="https://leetcard.jacoblin.cool/Pekachu024?ext=heatmap&font=Fira+Code&theme=dark&colors=0A0F08,1A2B1A,CAFF3C,E8F5E1,CAFF3C,8AFF57,CAFF3C,8AFF57" />
-
 <br><br>
-
+<img src="https://leetcard.jacoblin.cool/Pekachu024?ext=heatmap&font=Fira+Code&theme=dark&hide=nickname,ranking&colors=0A0F08,1A2B1A,CAFF3C,E8F5E1,CAFF3C,8AFF57,CAFF3C,8AFF57" width="100%" />
+</td>
+<td width="33%" align="center">
+<b>🦉 Duolingo Streak</b>
+<br><br>
+<img src="https://duolingo-api-five.vercel.app/user/svg/Lax194" width="90%" style="border-radius:16px;" />
+</td>
+<td width="33%" align="center">
 <b>🐍 Contribution Snake</b>
-<br>
+<br><br>
 <img src="https://raw.githubusercontent.com/laxmimusande4004-blip/laxmimusande4004-blip/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</td>
+</tr>
+</table>
 
 </div>
 
