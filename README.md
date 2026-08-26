@@ -4,26 +4,20 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=CAFF3C&center=true&vCenter=true&width=800&lines=%24+whoami+%E2%86%92+CSE+Undergrad+%40+BITS;%24+skills+%E2%86%92+Java+%7C+JS+%7C+SQL+%7C+Node.js;%24+learning+%E2%86%92+MERN+%2B+AI%2FML+%2B+Networks;%24+cat+open-to.txt+%E2%86%92+Internships+%26+SDE+Roles" />
 
-<br>
-
 <img src="https://img.shields.io/badge/🎓_B.Sc_Computer_Science-BITS-CAFF3C?style=for-the-badge&labelColor=0A0F08" />
 <img src="https://img.shields.io/badge/📍_Bengaluru-CAFF3C?style=for-the-badge&labelColor=0A0F08" />
 <img src="https://img.shields.io/badge/🚀_Class_of-2029-CAFF3C?style=for-the-badge&labelColor=0A0F08" />
-
-<br><br>
 
 <a href="https://www.linkedin.com/in/laxmi-musande-83155a36b/"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0A0F08" /></a>
 <a href="mailto:laxmi.m0024@gmail.com"><img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0A0F08" /></a>
 <a href="https://leetcode.com/u/Pekachu024/"><img src="https://img.shields.io/badge/LeetCode-CAFF3C?style=for-the-badge&logo=leetcode&logoColor=000000&labelColor=0A0F08" /></a>
 <a href="https://github.com/laxmimusande4004-blip"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=0A0F08" /></a>
 
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=laxmimusande4004-blip&style=for-the-badge&color=CAFF3C&labelColor=0A0F08&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/laxmimusande4004-blip?style=for-the-badge&color=CAFF3C&labelColor=0A0F08&logo=github&label=FOLLOWERS" />
 <img src="https://img.shields.io/github/stars/laxmimusande4004-blip?style=for-the-badge&color=CAFF3C&labelColor=0A0F08&logo=github&label=STARS" />
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F08,100:1A2B1A&height=55&section=header&text=💻%20WHOAMI&fontSize=22&fontColor=CAFF3C&fontAlignY=65" width="100%" />
 
@@ -52,21 +46,7 @@ OPEN_TO   =  Internships  |  Entry-level SDE roles
 
 <div align="center">
 
-<b>Languages & Core</b>
-<br>
-<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" />
-
-<br><br>
-
-<b>Backend & Data</b>
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&theme=dark" />
-
-<br><br>
-
-<b>Currently Learning</b>
-<br>
-<img src="https://skillicons.dev/icons?i=react,express,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,mongodb,mysql,react,express,git,github&theme=dark" />
 
 </div>
 
@@ -109,24 +89,24 @@ current_status: Entering 2nd year
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=laxmimusande4004-blip&show_icons=true&count_private=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=laxmimusande4004-blip&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" />
 <img height="165" src="https://streak-stats.demolab.com/?user=laxmimusande4004-blip&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C&sideLabels=8AFF57&dates=8AFF57&currStreakNum=CAFF3C&sideNums=CAFF3C" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmimusande4004-blip&layout=compact&hide_border=true&langs_count=8&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmimusande4004-blip&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" />
 
 <br><br>
 
 <b>🏆 Trophy Case</b>
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=laxmimusande4004-blip&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=laxmimusande4004-blip&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7&cache_seconds=86400" />
 
 <br><br>
 
 <b>📅 Activity Timeline</b>
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmimusande4004-blip&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true&area_color=1A2B1A&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmimusande4004-blip&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true&area_color=1A2B1A&hide_border=true&cache_seconds=86400" width="100%" />
 
 <br><br>
 
