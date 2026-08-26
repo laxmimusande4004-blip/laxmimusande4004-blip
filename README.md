@@ -52,7 +52,7 @@ OPEN_TO   =  Internships  |  Entry-level SDE roles
 <tr>
 <td width="45%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/💚_CORE_SKILLS-CAFF3C?style=for-the-badge&labelColor=0A0F08" />
+<img src="https://img.shields.io/badge/💚_SKILLS-CAFF3C?style=for-the-badge&labelColor=0A0F08" />
 <br><br>
 <img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" />
 <br><br>
@@ -60,8 +60,6 @@ OPEN_TO   =  Internships  |  Entry-level SDE roles
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🌱_CURRENTLY_LEARNING-8AFF57?style=for-the-badge&labelColor=0A0F08" />
-<br><br>
 <img src="https://skillicons.dev/icons?i=react,express,git,github&theme=dark" />
 
 </td>
