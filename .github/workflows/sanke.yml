@@ -1,7 +1,7 @@
-name: generate animation
+name: generate arcade contribution graphs
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -9,17 +9,18 @@ on:
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v4
-      - name: generate animation
-        uses: Platane/snk@v3
+      - name: generate contribution graph SVGs
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: laxmimusande4004-blip
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: push output
-        uses: crazy-max/ghaction-github-pages@v4
+          games: 'pacman'
+      - name: push SVGs to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
