@@ -52,10 +52,24 @@ OPEN_TO   =  Internships  |  Entry-level SDE roles
 <tr>
 <td width="45%" align="center" valign="top">
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,mongodb,mysql,react,express,git,github&theme=dark" />
+<img src="https://img.shields.io/badge/💚_CORE_SKILLS-CAFF3C?style=for-the-badge&labelColor=0A0F08" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🌱_CURRENTLY_LEARNING-8AFF57?style=for-the-badge&labelColor=0A0F08" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,express,git,github&theme=dark" />
 
 </td>
 <td width="55%" valign="top">
+
+<div align="center"><img src="https://img.shields.io/badge/📊_SKILL_PROGRESS-CAFF3C?style=for-the-badge&labelColor=0A0F08" /></div>
+
+<br>
 
 | Domain | Progress | Details |
 | :-- | :--: | :-- |
@@ -177,4 +191,5 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:112D1B,100:0A0F08&height=120&section=footer&fontColor=CAFF3C" />
 
 </div>
+
 
