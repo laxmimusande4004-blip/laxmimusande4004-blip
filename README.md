@@ -1,29 +1,39 @@
 <div align="center">
 
-[![banner](https://capsule-render.vercel.app/api?type=shark&height=220&color=0A0F08&fontColor=CAFF3C&text=%E2%9D%AF_%20Laxmi%20Musande&fontSize=38&fontAlign=40&desc=CSE%20Undergrad%20%40%20BITS%20%7C%20Aspiring%20Full%20Stack%20%2B%20AI%2FML%20Engineer&descSize=15&descColor=8AFF57&descAlign=63&animation=fadeIn)](https://github.com/laxmimusande4004-blip)
+[![banner](https://capsule-render.vercel.app/api?type=shark&height=230&color=0:0A0F08,100:112D1B&fontColor=CAFF3C&text=%E2%9D%AF_%20Laxmi%20Musande&fontSize=42&fontAlign=50&fontAlignY=38&desc=CSE%20Undergrad%20%40%20BITS%20%E2%80%A2%20Aspiring%20Full%20Stack%20%2B%20AI%2FML%20Engineer&descSize=16&descColor=8AFF57&descAlign=50&descAlignY=58&animation=fadeIn)](https://github.com/laxmimusande4004-blip)
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+CSE+Undergrad+%40+BITS;%24+skills+%E2%86%92+Java+%7C+JS+%7C+SQL+%7C+Node.js;%24+learning+%E2%86%92+MERN+%2B+AI%2FML+%2B+Networks;%24+cat+open-to.txt+%E2%86%92+Internships+in+prod)](https://github.com/laxmimusande4004-blip)
-
-[![degree](https://img.shields.io/badge/B.S.C.%20Computer%20Science-BITS-CAFF3C?style=flat-square&labelColor=060D08&color=1A2B1A&logo=graduation-cap&logoColor=CAFF3C)](#)
-[![location](https://img.shields.io/badge/%F0%9F%93%8D_Bengaluru-CAFF3C?style=flat-square&labelColor=060D08&logoColor=CAFF3C)](#)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=CAFF3C&center=true&vCenter=true&width=800&lines=%24+whoami+%E2%86%92+CSE+Undergrad+%40+BITS;%24+skills+%E2%86%92+Java+%7C+JS+%7C+SQL+%7C+Node.js;%24+learning+%E2%86%92+MERN+%2B+AI%2FML+%2B+Networks;%24+cat+open-to.txt+%E2%86%92+Internships+%26+SDE+Roles" />
 
 <br>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08)](https://www.linkedin.com/in/laxmi-musande-83155a36b/)
-[![email](https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08)](mailto:laxmi.m0024@gmail.com)
-[![github](https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08)](https://github.com/laxmimusande4004-blip)
+<img src="https://img.shields.io/badge/🎓_B.Sc_Computer_Science-BITS-CAFF3C?style=for-the-badge&labelColor=0A0F08" />
+<img src="https://img.shields.io/badge/📍_Bengaluru-CAFF3C?style=for-the-badge&labelColor=0A0F08" />
+<img src="https://img.shields.io/badge/🚀_Class_of-2029-CAFF3C?style=for-the-badge&labelColor=0A0F08" />
 
-[![views](https://komarev.com/ghpvc/?username=laxmimusande4004-blip&style=flat-square&color=CAFF3C&labelColor=060D08&label=Profile+Views)](#)
-[![followers](https://img.shields.io/github/followers/laxmimusande4004-blip?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Followers)](#)
-[![stars](https://img.shields.io/github/stars/laxmimusande4004-blip?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Stars)](#)
+<br><br>
+
+<a href="https://www.linkedin.com/in/laxmi-musande-83155a36b/"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0A0F08" /></a>
+<a href="mailto:laxmi.m0024@gmail.com"><img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0A0F08" /></a>
+<a href="https://leetcode.com/u/Pekachu024/"><img src="https://img.shields.io/badge/LeetCode-CAFF3C?style=for-the-badge&logo=leetcode&logoColor=000000&labelColor=0A0F08" /></a>
+<a href="https://github.com/laxmimusande4004-blip"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=0A0F08" /></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=laxmimusande4004-blip&style=for-the-badge&color=CAFF3C&labelColor=0A0F08&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/laxmimusande4004-blip?style=for-the-badge&color=CAFF3C&labelColor=0A0F08&logo=github&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/laxmimusande4004-blip?style=for-the-badge&color=CAFF3C&labelColor=0A0F08&logo=github&label=STARS" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F08,100:1A2B1A&height=55&section=header&text=💻%20WHOAMI&fontSize=22&fontColor=CAFF3C&fontAlignY=65" width="100%" />
 
 </div>
 
----
+<div align="center">
+<i>CSE undergraduate at <b>BITS</b>, currently entering my <b>2nd year</b>. Building a strong foundation in core programming and databases, and going deeper into full-stack development, AI/ML, and computer networking.</i>
+</div>
 
-## `> whoami`
-
-CSE undergraduate at **BITS**, currently entering my **2nd year**. I'm building a foundation in core programming and databases, and starting to go deeper into full-stack development, AI/ML, and computer networking.
+<br>
 
 ```bash
 $ cat .profile
@@ -36,41 +46,55 @@ LOCATION  =  Bengaluru
 OPEN_TO   =  Internships  |  Entry-level SDE roles
 ```
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F08,100:1A2B1A&height=55&section=header&text=🛠️%20TECH%20STACK&fontSize=22&fontColor=CAFF3C&fontAlignY=65" width="100%" />
+</div>
 
-## `> ls /tech-stack`
+<div align="center">
 
-**[ Languages & Core ]**
+<b>Languages & Core</b>
+<br>
+<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" />
 
-[![languages](https://skillicons.dev/icons?i=java,js,html,css&theme=dark)](https://skillicons.dev)
+<br><br>
 
-**[ Backend & Data ]**
+<b>Backend & Data</b>
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&theme=dark" />
 
-[![backend](https://skillicons.dev/icons?i=nodejs,mongodb,mysql&theme=dark)](https://skillicons.dev)
+<br><br>
 
-**[ Currently Learning ]**
+<b>Currently Learning</b>
+<br>
+<img src="https://skillicons.dev/icons?i=react,express,git,github&theme=dark" />
 
-[![learning](https://skillicons.dev/icons?i=react,express,git,github&theme=dark)](https://skillicons.dev)
+</div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F08,100:1A2B1A&height=55&section=header&text=📊%20SKILL%20PROGRESS&fontSize=22&fontColor=CAFF3C&fontAlignY=65" width="100%" />
+</div>
 
-## `> cat skills-progress.json`
+<div align="center">
 
-| Domain | Level | Details |
-| :-- | :-- | :-- |
-| **Core Programming** | `████████░░ Building` | Java, JavaScript |
-| **Web Fundamentals** | `████████░░ Building` | HTML, CSS |
-| **Databases** | `███████░░░ Building` | SQL, MongoDB |
-| **Backend (Node.js)** | `██████░░░░ Learning` | Server-side basics |
-| **Full-Stack (MERN)** | `████░░░░░░ Starting` | React, Express, Node, MongoDB |
-| **AI / ML** | `███░░░░░░░ Starting` | Foundations |
-| **Computer Networking** | `███░░░░░░░ Starting` | Core concepts |
+| Domain | Progress | Details |
+| :-- | :--: | :-- |
+| **Core Programming** | ![80%](https://progress-bar.xyz/80/?title=&color=CAFF3C&width=120&suffix=%25) | Java, JavaScript |
+| **Web Fundamentals** | ![75%](https://progress-bar.xyz/75/?title=&color=CAFF3C&width=120&suffix=%25) | HTML, CSS |
+| **Databases** | ![70%](https://progress-bar.xyz/70/?title=&color=CAFF3C&width=120&suffix=%25) | SQL, MongoDB |
+| **Backend (Node.js)** | ![55%](https://progress-bar.xyz/55/?title=&color=CAFF3C&width=120&suffix=%25) | Server-side basics |
+| **Full-Stack (MERN)** | ![35%](https://progress-bar.xyz/35/?title=&color=CAFF3C&width=120&suffix=%25) | React, Express |
+| **AI / ML** | ![25%](https://progress-bar.xyz/25/?title=&color=CAFF3C&width=120&suffix=%25) | Foundations |
+| **Networking** | ![25%](https://progress-bar.xyz/25/?title=&color=CAFF3C&width=120&suffix=%25) | Core concepts |
 
----
+</div>
 
-## `> git log --oneline /education`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F08,100:1A2B1A&height=55&section=header&text=🎓%20EDUCATION&fontSize=22&fontColor=CAFF3C&fontAlignY=65" width="100%" />
+</div>
 
-[![education](https://img.shields.io/badge/B.S.C.%20Computer%20Science-BITS-CAFF3C?style=for-the-badge&labelColor=060D08&color=1A2B1A&logo=academia&logoColor=CAFF3C)](#)
+<div align="center">
+<img src="https://img.shields.io/badge/B.Sc_Computer_Science-BITS-CAFF3C?style=for-the-badge&labelColor=0A0F08&logo=googlescholar&logoColor=CAFF3C" />
+</div>
 
 ```yaml
 degree: B.Sc, Computer Science
@@ -79,73 +103,42 @@ graduation_year: 2029
 current_status: Entering 2nd year
 ```
 
----
-
-## `> cat coding-profiles.sh`
-
-[![leetcode](https://img.shields.io/badge/LeetCode-CAFF3C?style=for-the-badge&logo=leetcode&logoColor=000000&labelColor=060D08)](https://leetcode.com/u/Pekachu024/)
-
----
-
-## `> git stats --global`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F08,100:1A2B1A&height=55&section=header&text=📈%20GITHUB%20ANALYTICS&fontSize=22&fontColor=CAFF3C&fontAlignY=65" width="100%" />
+</div>
 
 <div align="center">
 
-[![stats](https://github-readme-stats.vercel.app/api?username=laxmimusande4004-blip&show_icons=true&count_private=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08)](https://github.com/laxmimusande4004-blip)
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=laxmimusande4004-blip&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C&sideLabels=8AFF57&dates=8AFF57&currStreakNum=CAFF3C&sideNums=CAFF3C)](https://github.com/laxmimusande4004-blip)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=laxmimusande4004-blip&show_icons=true&count_private=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" />
+<img height="165" src="https://streak-stats.demolab.com/?user=laxmimusande4004-blip&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C&sideLabels=8AFF57&dates=8AFF57&currStreakNum=CAFF3C&sideNums=CAFF3C" />
 
-[![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmimusande4004-blip&layout=compact&hide_border=true&langs_count=8&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08)](https://github.com/laxmimusande4004-blip)
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmimusande4004-blip&layout=compact&hide_border=true&langs_count=8&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" />
+
+<br><br>
+
+<b>🏆 Trophy Case</b>
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=laxmimusande4004-blip&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+<br><br>
+
+<b>📅 Activity Timeline</b>
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmimusande4004-blip&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true&area_color=1A2B1A&hide_border=true" width="100%" />
+
+<br><br>
+
+<b>🐍 Contribution Snake</b>
+<br>
+<img src="https://raw.githubusercontent.com/laxmimusande4004-blip/laxmimusande4004-blip/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
-
----
-
-## `> trophy-case --display`
 
 <div align="center">
-
-[![trophies](https://github-profile-trophy.vercel.app/?username=laxmimusande4004-blip&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/laxmimusande4004-blip)
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F08,100:1A2B1A&height=55&section=header&text=🎯%20CURRENT%20FOCUS&fontSize=22&fontColor=CAFF3C&fontAlignY=65" width="100%" />
 </div>
-
----
-
-## `> activity-graph --timeline`
-
-<div align="center">
-
-[![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=laxmimusande4004-blip&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true&area_color=1A2B1A&hide_border=true)](https://github.com/laxmimusande4004-blip)
-
-</div>
-
----
-
-## `> contribution-report --detailed`
-
-<div align="center">
-
-[![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laxmimusande4004-blip&theme=matrix)](https://github.com/laxmimusande4004-blip)
-
-[![repos-per-language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laxmimusande4004-blip&theme=matrix)](https://github.com/laxmimusande4004-blip)
-[![most-commit-language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laxmimusande4004-blip&theme=matrix)](https://github.com/laxmimusande4004-blip)
-
-</div>
-
----
-
-## `> ./snake-animation.sh`
-
-<div align="center">
-
-[![snake](https://raw.githubusercontent.com/laxmimusande4004-blip/laxmimusande4004-blip/output/github-contribution-grid-snake-dark.svg)](https://github.com/laxmimusande4004-blip)
-
-</div>
-
-> Set up separately in Step 5 below — this will look empty until then.
-
----
-
-## `> cat current-focus.yaml`
 
 ```yaml
 learning:
@@ -161,39 +154,23 @@ open_to:
   - Entry-level SDE roles
 ```
 
----
-
-## `> ping me`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F08,100:1A2B1A&height=55&section=header&text=📬%20LET'S%20CONNECT&fontSize=22&fontColor=CAFF3C&fontAlignY=65" width="100%" />
+</div>
 
 <div align="center">
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08)](https://www.linkedin.com/in/laxmi-musande-83155a36b/)
-[![email](https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08)](mailto:laxmi.m0024@gmail.com)
-[![github](https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08)](https://github.com/laxmimusande4004-blip)
+<a href="https://www.linkedin.com/in/laxmi-musande-83155a36b/"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0A0F08" /></a>
+<a href="mailto:laxmi.m0024@gmail.com"><img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0A0F08" /></a>
+<a href="https://github.com/laxmimusande4004-blip"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=0A0F08" /></a>
+
+<br><br>
+
+<i>✨ always learning, always building ✨</i>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:112D1B,100:0A0F08&height=120&section=footer&fontColor=CAFF3C" />
 
 </div>
 
----
-
-*// always learning, always building*
-
-<div align="center">
-
-[![footer](https://capsule-render.vercel.app/api?type=shark&height=120&section=footer&color=0A0F08&fontColor=CAFF3C)](https://github.com/laxmimusande4004-blip)
-
-</div>
-
-<!--
-**laxmimusande4004-blip/laxmimusande4004-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
