@@ -41,7 +41,7 @@ OPEN_TO   =  Internships  |  Entry-level SDE roles
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F08,100:1A2B1A&height=55&section=header&text=🛠️%20TECH%20STACK&fontSize=22&fontColor=CAFF3C&fontAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F08,100:1A2B1A&height=55&section=header&text=🛠️%20TECH%20STACK%20%26%20SKILLS&fontSize=22&fontColor=CAFF3C&fontAlignY=65" width="100%" />
 </div>
 
 <br>
@@ -50,36 +50,26 @@ OPEN_TO   =  Internships  |  Entry-level SDE roles
 
 <table>
 <tr>
-<td align="center">
-<b>Languages, Web & Backend</b>
-<br><br>
-<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,mongodb,mysql&theme=dark" />
+<td width="45%" align="center" valign="top">
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,mongodb,mysql,react,express,git,github&theme=dark" />
+
 </td>
-<td align="center">
-<b>Currently Learning</b>
-<br><br>
-<img src="https://skillicons.dev/icons?i=react,express,git,github&theme=dark" />
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F08,100:1A2B1A&height=55&section=header&text=📊%20SKILL%20PROGRESS&fontSize=22&fontColor=CAFF3C&fontAlignY=65" width="100%" />
-</div>
-
-<div align="center">
+<td width="55%" valign="top">
 
 | Domain | Progress | Details |
 | :-- | :--: | :-- |
-| **Core Programming** | ![80%](https://progress-bar.xyz/80/?title=&color=CAFF3C&width=120&suffix=%25) | Java, JavaScript |
-| **Web Fundamentals** | ![75%](https://progress-bar.xyz/75/?title=&color=CAFF3C&width=120&suffix=%25) | HTML, CSS |
-| **Databases** | ![70%](https://progress-bar.xyz/70/?title=&color=CAFF3C&width=120&suffix=%25) | SQL, MongoDB |
-| **Backend (Node.js)** | ![55%](https://progress-bar.xyz/55/?title=&color=CAFF3C&width=120&suffix=%25) | Server-side basics |
-| **Full-Stack (MERN)** | ![35%](https://progress-bar.xyz/35/?title=&color=CAFF3C&width=120&suffix=%25) | React, Express |
-| **AI / ML** | ![25%](https://progress-bar.xyz/25/?title=&color=CAFF3C&width=120&suffix=%25) | Foundations |
-| **Networking** | ![25%](https://progress-bar.xyz/25/?title=&color=CAFF3C&width=120&suffix=%25) | Core concepts |
+| **Core Programming** | ![80%](https://progress-bar.xyz/80/?title=&color=CAFF3C&width=100&suffix=%25) | Java, JavaScript |
+| **Web Fundamentals** | ![75%](https://progress-bar.xyz/75/?title=&color=CAFF3C&width=100&suffix=%25) | HTML, CSS |
+| **Databases** | ![70%](https://progress-bar.xyz/70/?title=&color=CAFF3C&width=100&suffix=%25) | SQL, MongoDB |
+| **Backend (Node.js)** | ![55%](https://progress-bar.xyz/55/?title=&color=CAFF3C&width=100&suffix=%25) | Server-side basics |
+| **Full-Stack (MERN)** | ![35%](https://progress-bar.xyz/35/?title=&color=CAFF3C&width=100&suffix=%25) | React, Express |
+| **AI / ML** | ![25%](https://progress-bar.xyz/25/?title=&color=CAFF3C&width=100&suffix=%25) | Foundations |
+| **Networking** | ![25%](https://progress-bar.xyz/25/?title=&color=CAFF3C&width=100&suffix=%25) | Core concepts |
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -108,10 +98,6 @@ current_status: Entering 2nd year
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmimusande4004-blip&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" />
-
-<br><br>
-
 <table>
 <tr>
 <td width="50%" align="center">
@@ -120,12 +106,24 @@ current_status: Entering 2nd year
 <img src="https://streak-stats.demolab.com/?user=laxmimusande4004-blip&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C&sideLabels=8AFF57&dates=8AFF57&currStreakNum=CAFF3C&sideNums=CAFF3C" width="100%" />
 </td>
 <td width="50%" align="center">
-<b>🐍 Contribution Snake</b>
+<b>📈 Top Languages</b>
 <br><br>
-<img src="https://raw.githubusercontent.com/laxmimusande4004-blip/laxmimusande4004-blip/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmimusande4004-blip&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" width="100%" />
 </td>
 </tr>
 </table>
+
+<br>
+
+<b>🐍 Contribution Snake</b>
+<br><br>
+<img src="https://raw.githubusercontent.com/laxmimusande4004-blip/laxmimusande4004-blip/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<br><br>
+
+<b>👻 Pac-Man Contribution Graph</b>
+<br><br>
+<img src="https://raw.githubusercontent.com/laxmimusande4004-blip/laxmimusande4004-blip/output/pacman-contribution-graph.svg" width="100%" />
 
 <br>
 
@@ -183,4 +181,3 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:112D1B,100:0A0F08&height=120&section=footer&fontColor=CAFF3C" />
 
 </div>
-
