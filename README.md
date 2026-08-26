@@ -48,7 +48,20 @@ OPEN_TO   =  Internships  |  Entry-level SDE roles
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,mongodb,mysql,react,express,git,github&theme=dark" />
+<table>
+<tr>
+<td align="center">
+<b>Languages, Web & Backend</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,mongodb,mysql&theme=dark" />
+</td>
+<td align="center">
+<b>Currently Learning</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,express,git,github&theme=dark" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -92,7 +105,6 @@ current_status: Entering 2nd year
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=laxmimusande4004-blip&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" />
-<img height="165" src="https://streak-stats.demolab.com/?user=laxmimusande4004-blip&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C&sideLabels=8AFF57&dates=8AFF57&currStreakNum=CAFF3C&sideNums=CAFF3C" />
 
 <br>
 
@@ -102,20 +114,32 @@ current_status: Entering 2nd year
 
 <table>
 <tr>
-<td width="33%" align="center">
-<b>🧩 LeetCode Stats</b>
+<td width="50%" align="center">
+<b>🔥 Streak Stats</b>
 <br><br>
-<img src="https://leetcard.jacoblin.cool/Pekachu024?ext=heatmap&font=Fira+Code&theme=dark&hide=nickname,ranking&colors=0A0F08,1A2B1A,CAFF3C,E8F5E1,CAFF3C,8AFF57,CAFF3C,8AFF57" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=laxmimusande4004-blip&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C&sideLabels=8AFF57&dates=8AFF57&currStreakNum=CAFF3C&sideNums=CAFF3C" width="100%" />
 </td>
-<td width="33%" align="center">
-<b>🦉 Duolingo Streak</b>
-<br><br>
-<img src="https://duolingo-api-five.vercel.app/user/svg/Lax194" width="90%" style="border-radius:16px;" />
-</td>
-<td width="33%" align="center">
+<td width="50%" align="center">
 <b>🐍 Contribution Snake</b>
 <br><br>
 <img src="https://raw.githubusercontent.com/laxmimusande4004-blip/laxmimusande4004-blip/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" align="center">
+<b>🧩 LeetCode Stats</b>
+<br><br>
+<a href="https://leetcode.com/u/Pekachu024/"><img src="https://leetcard.jacoblin.cool/Pekachu024?ext=heatmap&font=Fira+Code&theme=dark&hide=nickname,ranking&colors=0A0F08,1A2B1A,CAFF3C,E8F5E1,CAFF3C,8AFF57,CAFF3C,8AFF57" width="100%" /></a>
+</td>
+<td width="50%" align="center">
+<b>🦉 Duolingo Streak</b>
+<br><br>
+<a href="https://www.duolingo.com/profile/Lax194"><img src="https://duolingo-api-five.vercel.app/user/svg/Lax194" width="90%" style="border-radius:16px;" /></a>
 </td>
 </tr>
 </table>
@@ -159,5 +183,4 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:112D1B,100:0A0F08&height=120&section=footer&fontColor=CAFF3C" />
 
 </div>
-
 
