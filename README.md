@@ -44,9 +44,19 @@ OPEN_TO   =  Internships  |  Entry-level SDE roles
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F08,100:1A2B1A&height=55&section=header&text=🛠️%20TECH%20STACK&fontSize=22&fontColor=CAFF3C&fontAlignY=65" width="100%" />
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,mongodb,mysql,react,express,git,github&theme=dark" />
+<b>Languages, Web & Backend</b>
+<br>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,mongodb,mysql&theme=dark" />
+
+<br><br>
+
+<b>Currently Learning</b>
+<br>
+<img src="https://skillicons.dev/icons?i=react,express,git,github&theme=dark" />
 
 </div>
 
@@ -98,15 +108,9 @@ current_status: Entering 2nd year
 
 <br><br>
 
-<b>🏆 Trophy Case</b>
+<b>🧩 LeetCode Stats</b>
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=laxmimusande4004-blip&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7&cache_seconds=86400" />
-
-<br><br>
-
-<b>📅 Activity Timeline</b>
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmimusande4004-blip&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true&area_color=1A2B1A&hide_border=true&cache_seconds=86400" width="100%" />
+<img src="https://leetcard.jacoblin.cool/Pekachu024?ext=heatmap&font=Fira+Code&theme=dark&colors=0A0F08,1A2B1A,CAFF3C,E8F5E1,CAFF3C,8AFF57,CAFF3C,8AFF57" />
 
 <br><br>
 
@@ -153,4 +157,5 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:112D1B,100:0A0F08&height=120&section=footer&fontColor=CAFF3C" />
 
 </div>
+
 
