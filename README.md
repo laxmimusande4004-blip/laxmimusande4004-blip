@@ -106,7 +106,7 @@ current_status: Entering 2nd year
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=laxmimusande4004-blip&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=laxmimusande4004-blip&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" />
 
 <br>
 
@@ -120,7 +120,7 @@ current_status: Entering 2nd year
 <td width="50%" align="center">
 <b>📈 Top Languages</b>
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmimusande4004-blip&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=laxmimusande4004-blip&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" width="100%" />
 </td>
 </tr>
 </table>
@@ -189,5 +189,3 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:112D1B,100:0A0F08&height=120&section=footer&fontColor=CAFF3C" />
 
 </div>
-
-
