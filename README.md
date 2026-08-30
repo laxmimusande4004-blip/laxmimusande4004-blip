@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/laxmi-musande-83155a36b/"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0A0F08" /></a>
 <a href="mailto:laxmi.m0024@gmail.com"><img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0A0F08" /></a>
-<a href="https://leetcode.com/u/Pekachu024/"><img src="https://img.shields.io/badge/LeetCode-CAFF3C?style=for-the-badge&logo=leetcode&logoColor=000000&labelColor=0A0F08" /></a>
+<a href="https://leetcode.com/u/lxmii/"><img src="https://img.shields.io/badge/LeetCode-CAFF3C?style=for-the-badge&logo=leetcode&logoColor=000000&labelColor=0A0F08" /></a>
 <a href="https://github.com/laxmimusande4004-blip"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=0A0F08" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=laxmimusande4004-blip&style=for-the-badge&color=CAFF3C&labelColor=0A0F08&label=PROFILE+VIEWS" />
@@ -138,9 +138,9 @@ current_status: Entering 2nd year
 <table>
 <tr>
 <td width="50%" align="center">
-<b>🧩 LeetCode Stats</b>
+<b>🧩 LeetCode Stats — lxmi024</b>
 <br><br>
-<a href="https://leetcode.com/u/Pekachu024/"><img src="https://leetcard.jacoblin.cool/Pekachu024?ext=heatmap&font=Fira+Code&theme=dark&hide=nickname,ranking&colors=0A0F08,1A2B1A,CAFF3C,E8F5E1,CAFF3C,8AFF57,CAFF3C,8AFF57" width="100%" /></a>
+<a href="https://leetcode.com/u/lxmii/"><img src="https://leetcard.jacoblin.cool/lxmii?ext=heatmap&font=Fira+Code&theme=dark&hide=ranking&colors=0A0F08,1A2B1A,CAFF3C,E8F5E1,CAFF3C,8AFF57,CAFF3C,8AFF57" width="100%" /></a>
 </td>
 <td width="50%" align="center">
 <b>🦉 Duolingo Streak</b>
